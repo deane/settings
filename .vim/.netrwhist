@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/opt/local/Library/Frameworks/Python.framework/Versions/2.7'
 let g:netrw_dirhist_2='/Users/deaniba/Code/gmgshop/_pregen/js'
 let g:netrw_dirhist_3='/Users/deaniba/Code/gmgshop/static/feincms'
@@ -7,3 +7,4 @@ let g:netrw_dirhist_4='/Users/deaniba/Code/playfire/g4mer/integration/thrift/gen
 let g:netrw_dirhist_5='/Users/deaniba/Code/gmgshop/globalsite/cms/lib_value'
 let g:netrw_dirhist_6='/Users/deaniba/Code/gmgpay/payment'
 let g:netrw_dirhist_7='/Users/deaniba/Code/laughingarcher/src/main/scala/com/gmgfarm/archer'
+let g:netrw_dirhist_8='/home/dean/.oh-my-zsh'
